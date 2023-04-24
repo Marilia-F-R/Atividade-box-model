@@ -1,0 +1,35 @@
+section {
+    height: 400px;
+     width: 400px;
+
+     border-width: 20px;
+     border-style: solid;
+     border-color: rgba(122, 16, 187, 0.804);
+     border-radius: 0%;
+
+    background-image: url(flor.png);
+    background-size: cover;
+    text-align: center;
+    box-shadow: inset 8px 6px 13px 3px rgb(247, 12, 12);
+         
+  
+    padding-top: 10px;
+    padding-left: 10 px;
+    padding-right: 10px;
+    padding-bottom: 10 px;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: rgb(151, 29, 29);
+
+    margin: auto;
+    margin-top: 100px;
+
+    }
+    h1 {
+        padding-top: 100px;
+        font-style: italic;
+        font-size: 50px;
+        color: yellow;
+        font-weight: bold;
+    }
